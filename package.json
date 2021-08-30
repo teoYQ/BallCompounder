@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/teoYQ/BallCompounder#readme",
   "dependencies": {
+    "axios": "^0.21.1",
+    "ethers": "^5.4.5",
     "web3": "^1.5.1"
   }
 }
